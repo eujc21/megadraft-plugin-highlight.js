@@ -1,11 +1,9 @@
 {
   "name": "megadraft-codeblock-plugin",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "megadraft-codeblock-plugin",
   "main": "lib/plugin.js",
   "dependencies": {
-    "draft-js-code": "^0.2.0",
-    "draft-js-prism": "^1.0.3",
     "highlight.js": "^9.8.0",
     "megadraft": "^0.2.0",
     "react": "^15.1.0",

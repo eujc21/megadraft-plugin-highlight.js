@@ -14,7 +14,6 @@ import INITIAL_CONTENT from "./default-content";
 
 const {BlockContent, BlockData, CommonBlock} = MegadraftPlugin;
 
-
 export default class Block extends Component {
   constructor(props) {
     super(props);
@@ -48,7 +47,6 @@ export default class Block extends Component {
             </code>
           </pre>
         </BlockContent>
-
         <BlockData>
           <DebounceInput
             element="textarea"
